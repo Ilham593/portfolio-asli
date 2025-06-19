@@ -1,34 +1,33 @@
 {
-  "job": "Frontend Developer",
-  "name": "John Doe",
-  "desc": "The traveler of this path, a web designer in Turkey.",
-  "aboutDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-  "email": "john.doe@example.com",
+  "job": "Aspiring Front End Developer",
+  "name": "Ilham",
+  "desc": "A student currently learning frontend development.",
+  "aboutDesc": "I’m in the process of becoming a frontend developer, learning through various programs, and improving my skills with web technologies like HTML, CSS, JavaScript, and focusing on the MERN stack (MongoDB, Express, React, Node.js).",
+  "email": "ilhampratamak05@gmail.com",
   "status": "on",
-  "hireMeLink": "https://twitter.com/iamkaanayyildiz",
+  "hireMeLink": "https://www.linkedin.com/in/ilham-p-k",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Benfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-image-url": "./src/assets/one-step-store.png",
+      "project-name": "one step store",
+      "project-desc": "MERN Stack",
+      "demo": "https://github.com/one-step-store/One-Step-Store.git"
+    },
+    {
+      "project-image-url": "./src/assets/asistant-skin.png",
+      "project-name": "asistantSkin",
+      "project-desc": "MERN Stack ",
+      "demo": "https://asistant-kulit-dbs.vercel.app/beranda"
     }
   ],
   "social": [
     {
-      "icon": "FaXTwitter",
-      "link": "https://x.com"
-    },
-    {
-      "icon": "FaInstagram",
-      "link": "https://instagram.com"
-    },
-    {
       "icon": "FaGithub",
-      "link": "https://github.com"
+      "link": "https://github.com/Ilham593"
     },
     {
       "icon": "FaLinkedinIn",
-      "link": "https://linkedin.com"
+      "link": "https://www.linkedin.com/in/ilham-p-k/"
     }
   ]
 }

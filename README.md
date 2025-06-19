@@ -20,6 +20,10 @@ npm install
 npm run dev
 ```
 
+## GitHub Repository
+
+[Visit the GitHub Repository](https://github.com/kaanayyildiz/benfolio)
+
 ## Demo
 
 [Click here for Benfolio Template demo](https://benfolio.vercel.app)

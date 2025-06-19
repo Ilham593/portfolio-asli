@@ -11,7 +11,7 @@ export default function SiteRoutes() {
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/projects" element={<Projects />} />
-      <Route path="/products" element={<Products />} />
+      {/* <Route path="/products" element={<Products />} /> */}
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );

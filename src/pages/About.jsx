@@ -1,4 +1,3 @@
-import profile from "../assets/profile.png";
 import CopyEmailButton from "../components/CopyEmailButton";
 import { getConfigData } from "../data/configReader";
 
