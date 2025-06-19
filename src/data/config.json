@@ -1,3 +1,4 @@
+
 {
   "job": "Aspiring Front End Developer",
   "name": "Ilham",
@@ -8,13 +9,13 @@
   "hireMeLink": "https://www.linkedin.com/in/ilham-p-k",
   "projects": [
     {
-      "project-image-url": "./src/assets/one-step-store.png",
+      "project-image-url": "images/one-step-store.png",
       "project-name": "one step store",
       "project-desc": "MERN Stack",
       "demo": "https://github.com/one-step-store/One-Step-Store.git"
     },
     {
-      "project-image-url": "./src/assets/asistant-skin.png",
+      "project-image-url": "images/asistant-skin.png",
       "project-name": "asistantSkin",
       "project-desc": "MERN Stack ",
       "demo": "https://asistant-kulit-dbs.vercel.app/beranda"
